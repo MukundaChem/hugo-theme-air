@@ -15,7 +15,7 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/user.jpg"
-  author = "syui"
+  author = "MUKANDO TESTS PARTICLE.JS"
   authorlocation = ""
   authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"
